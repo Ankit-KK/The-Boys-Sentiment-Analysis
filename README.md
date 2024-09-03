@@ -24,7 +24,7 @@ This project performs sentiment analysis on user reviews of the TV series "The B
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YourUsername/TheBoysSentimentAnalysis.git
+    git clone https://github.com/Ankit-KK/TheBoysSentimentAnalysis.git
     cd TheBoysSentimentAnalysis
     ```
 2. Install the required Python packages:
